@@ -5,6 +5,13 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 
 This CHANGELOG follows conventions [outlined here](http://keepachangelog.com/).
 
+## [14.1.1](https://github.com/ParabolInc/parabol/compare/v14.1.0...v14.1.1) (2026-09-29)
+
+
+### Fixed
+
+* atlassian dark mode icon updates ([#13558](https://github.com/ParabolInc/parabol/issues/13558)) ([5581fba](https://github.com/ParabolInc/parabol/commit/5581fba3695a85a5bb25b00cddba302dd2430621))
+
 ## [14.1.0](https://github.com/ParabolInc/parabol/compare/v14.0.1...v14.1.0) (2026-09-28)
 
 
